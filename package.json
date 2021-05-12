@@ -42,6 +42,6 @@
     "inflection": "^1.12.0",
     "irc-colors": "^1.4.1",
     "lodash": "^4.17.4",
-    "mathjs": "^3.17.0"
+    "mathjs": "^7.5.1"
   }
 }
